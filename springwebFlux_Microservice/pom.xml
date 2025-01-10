@@ -9,7 +9,7 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.springwebFlux_Microservice</groupId>
-	<artifactId>springwebFlux_Microservice</artifactId>
+	<artifactId>eligibleApp</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>springwebFlux_Microservice</name>
 	<description>Demo webFlux Microservices for Spring Boot</description>
