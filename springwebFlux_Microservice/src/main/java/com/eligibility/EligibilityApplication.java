@@ -1,13 +1,13 @@
-package com.springwebFlux_Microservice;
+package com.eligibility;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class SpringwebFluxMicroserviceApplication {
+public class EligibilityApplication {
 
 	public static void main(String[] args) {
-		SpringApplication.run(SpringwebFluxMicroserviceApplication.class, args);
+		SpringApplication.run(EligibilityApplication.class, args);
 	}
 
 }
